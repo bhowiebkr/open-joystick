@@ -1,6 +1,11 @@
 # Open Joystick
 
-This is a 3d printed open source joystick in the works. It features dual cams per axis. A twist axis that is also dual cam actuated. Force feedback using electromagnetic induction.
+This is a 3d printed open source joystick in the works.
+
+## Mechanical features
+-  dual cams per axis.
+- A twist axis that is also dual cam actuated.
+- Force feedback using electromagnetic induction.
 
 ![CAD](publish/joystick_gimbal_v1.01.png)
 
