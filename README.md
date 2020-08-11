@@ -23,9 +23,10 @@ This is a 3d printed open source joystick in the works.
 ## Media
 
 ### Video 1 - initial design
-This video shows basically the full assembly of the original design by olukelo. Some minor changes were made where parts had interference with each other. Cam springs/elastic bands not visualized in the assembly.
+This video shows basically the full assembly of the original design by olukelo. Some minor changes were made where parts had interference with each other. Cam springs/elastic bands not visualized in this assembly.
 - He has a github repo for that [project found here](https://github.com/o-devices/o-joystick-hdk)
 - And the [Thingiverse page](https://www.thingiverse.com/thing:2496028#How%20I%20Designed%20This)
+- A working 3d print of the [Olukelo's design by Slarti Bartfast](https://www.youtube.com/watch?v=H3n42BAMKc0)
 
 [![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/erjnODXnVpg/0.jpg)](https://www.youtube.com/watch?v=erjnODXnVpg "3d printed Joystick gimbal design and assembly motion.")
 
