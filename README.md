@@ -7,6 +7,14 @@ This is a 3d printed open source joystick in the works.
 - A twist axis that is also dual cam actuated.
 - Force feedback using electromagnetic induction.
 
+## Electrical feature
+- Because of the electromagnets, I don’t think hall effect angle sensors would work and will look at using potentiometers instead. 
+- Microcontroller using the Arduino ecosystem.
+
+## Software features
+- Arduino based joystick implementation.
+
+
 ![CAD](publish/joystick_gimbal_v1.01.png)
 
 Below are videos on the progress of the design:
