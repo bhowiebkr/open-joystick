@@ -17,8 +17,18 @@ This is a 3d printed open source joystick in the works.
 ## Software features
 - Arduino based joystick implementation.
 
+## Part list
+Nuts and bolts might be able to be swapped out. You will need to get the specific bearings. I would suggest making sure to get a couple extra. I will keep an up-to-date list of parts. Keep in mind that this design is in progress so parts might change.
 
-![CAD](publish/joystick_gimbal_v1.01.png)
+### Bearings
+When getting bearings. I would suggest sealed ones (2rs), also Chrome steel instead of Carbon steel (they will last longer). There are many sites you can read more on bearings [like this one](https://uk.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/ball-bearings-guide).
+
+- 5x (685 Ball Bearing 5mm x 11mm x 5mm) [Amazon](https://www.amazon.ca/s?k=685+bearings)
+- 5x (6802 Deep Groove Ball Bearing 15mm x 24mm x 5mm) [Amazon](https://www.amazon.ca/s?k=6802zz+deep+groove+bearings)
+- 10x (MF105 bearings 5mm x 10mm x 4mm) [Amazon](https://www.amazon.ca/s?k=MF105ZZ+bearings)
+
+
+![CAD](publish/joystick_gimbal_v1.03.png)
 
 ## Media
 
