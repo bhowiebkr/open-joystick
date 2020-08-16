@@ -32,7 +32,15 @@ When getting bearings. I would suggest sealed ones (2rs), also Chrome steel inst
 
 ## Media
 
-### Video 2 - Twist axis and force feedback using electromagnetic coils.
+### P3 | 3d printed Joystick (open joystick) - Twist axis improvements, M5 bolts
+This iteration I have gotten the twist assembly in a state where I think it should work.
+I have changed all the fasteners over to M5 bolts in standardized lengths. In the previous version there was some intersections with the base
+Other major things improved in this version is separating the main assembly into 3 sub assemblies. This helps as the design becomes more complex.
+
+[![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/RzIBeyHr2ls/0.jpg)](https://www.youtube.com/watch?v=RzIBeyHr2ls "3d printed Joystick gimbal design and assembly motion.")
+
+
+### P2 | 3d printed Joystick (open joystick) - Twist axis, electromagnetic force feedback
 
 The grip attaches to the upper twist assembly through 2 bearings (the big and small one). This should give enough contact for the grip to not wobble around. 
 
@@ -40,7 +48,7 @@ I have used the cams way of adding tension to the twist and it has added alot of
 
 [![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/51jVKvQhhOk/0.jpg)](https://www.youtube.com/watch?v=51jVKvQhhOk "3d printed Joystick gimbal design and assembly motion.")
 
-### Video 1 - initial design
+### P1 | 3d printed Joystick (open joystick) - Gimbal design, assembly motion.
 This video shows basically the full assembly of the original design by olukelo. Some minor changes were made where parts had interference with each other. Cam springs/elastic bands not visualized in this assembly.
 - He has a github repo for that [project found here](https://github.com/o-devices/o-joystick-hdk) that includes STL and Solidworks source files.
 - And the [Thingiverse page](https://www.thingiverse.com/thing:2496028#How%20I%20Designed%20This)
