@@ -1,6 +1,12 @@
 # Open Joystick
 
-This is a 3d printed open source joystick in the works.
+This is my attempt to make a joystick with 3d printed parts. The original design was by [olukelo](https://www.thingiverse.com/thing:2496028) but has since evolved from there.
+
+This’ll be a 3-axis joystick where all moving parts are on bearings. It will have force feedback through the use of 4 electromagnets. There will be left and right handed version (I'm left handed so will be building it left handed and will mirror it to right).
+
+My intent is to design and build the last joystick I’ll ever need. If it breaks I want to be able to fix it, I want it left and right handed, a twist axis, If it’s too big or too small I can resize it to fit my hand shape, force feedback, etc.
+
+
 
 ## Mechanical features
 -  dual cams per axis.
