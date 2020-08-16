@@ -1,6 +1,5 @@
 # Hardware
+This area is specific to the hardware, where to source materials, bill of materials (BOM) etc. 
 
-## Design
-For more see the design section.
-
-
+## See Subsections:
+[Design](design) - Info on files for 3d printing and CAD modifications.
