@@ -34,7 +34,7 @@ When getting bearings. I would suggest sealed ones (2rs), also Chrome steel inst
 - 10x (MF105 bearings 5mm x 10mm x 4mm) [Amazon](https://www.amazon.ca/s?k=MF105ZZ+bearings)
 
 
-![CAD](publish/joystick_gimbal_v1.03.png)
+![CAD](publish/images/joystick_gimbal_v1.03.png)
 
 ## Media
 
