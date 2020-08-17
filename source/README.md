@@ -6,6 +6,9 @@ The work will be divided into the following main sections.
 - Force feedback using electromagnetic induction.
 - A parametric grip to change from left and right varients as well as size. Possible different layouts etc. 
 
+### [Design](hardware/design)
+- Info on 3d design of the hardware.
+
 ## [Electrical](electrical)
 - Initially was going to be potentiometer based due to electromagnetic interference but will have another look at using hall effect sensors. 
 - All logic will be done using microcontrollers in the Arduino ecosystem. 
