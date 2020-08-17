@@ -1,8 +1,4 @@
 # Source Files
-
-Here all areas are broken down into sections
-
-# Sections
 The work will be divided into the following main sections.
 
 ## [Hardware](hardware)
@@ -18,3 +14,5 @@ The work will be divided into the following main sections.
 - Arduino based joystick implementation.
 - Custom drivers (possibly)
 - Plugin for Microsoft Flight Simulator 2020 if it's necessary to extract data to drive the force-feedback loop.
+
+## [firmware](firmware)
