@@ -7,23 +7,6 @@ This project is still in the very early stages of planning and design. Currently
 
 ![CAD](images/joystick_gimbal_v1.03.png)
 
-# Sections
-The work will be divided into the following main sections.
-
-## [Mechanical](source/mechanical)
-- All cams and pivots moving on ball bearings.
-- Force feedback using electromagnetic induction.
-- A parametric grip to change from left and right varients as well as size. Possible different layouts etc. 
-
-## Electrical
-- Initially was going to be potentiometer based due to electromagnetic interference but will have another look at using hall effect sensors. 
-- All logic will be done using microcontrollers in the Arduino ecosystem. 
-
-## Software
-- Arduino based joystick implementation.
-- Custom drivers (possibly)
-- Plugin for Microsoft Flight Simulator 2020 if it's necessary to extract data to drive the force-feedback loop.
-
 ## Media
 Below are progress updates from Youtube. 
 
