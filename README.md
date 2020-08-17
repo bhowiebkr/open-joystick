@@ -1,6 +1,6 @@
 # Open Joystick
 
-**See single-cam branch for next revision on a potential redesign**
+**single-cam branch**
 
 This is my attempt to make a joystick with 3d printed parts. The original design was by [olukelo](https://www.thingiverse.com/thing:2496028) but has since evolved from there.
 
