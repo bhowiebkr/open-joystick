@@ -29,6 +29,6 @@ There are three electromagnets options that I can think of the might be the solu
 
 - 4 Wound coils
 - Solenoids
-- Brushless motors on the axis
+- Sensored Brushless motors on the axis. This might be a good method because the motors already have hall effect sensors in them. 
 
 
