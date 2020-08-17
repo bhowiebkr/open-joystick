@@ -5,6 +5,10 @@ Open Joystick is an open source joystick that is built out of off the shelf comp
 # Progress
 This project is still in the very early stages of planning and design. Currently there is a design for 3-axis gimbals using dual cam’s on PITCH and ROLL and a single cam for YAW. Force-feedback with Coils has an initial design but not finalized. 
 
+# [Source](source)
+See the source folder for more info on build progress.
+
+
 ![CAD](images/joystick_gimbal_v1.03.png)
 
 ## Media
