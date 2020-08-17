@@ -1,44 +1,31 @@
 # Open Joystick
 
-**single-cam branch**
+Open Joystick is an open source joystick that is built out of off the shelf components and 3d printed parts. It will feature a 3-axis gimbal base, force feedback using electromagnets, left, right handed, multiple sized grips. The plan is to build a very robust joystick that is easily customizable and serviceable that includes many features only found on very high-end ones. 
 
-This is my attempt to make a joystick with 3d printed parts. The original design was by [olukelo](https://www.thingiverse.com/thing:2496028) but has since evolved from there.
-
-This’ll be a 3-axis joystick where all moving parts are on bearings. It will have force feedback through the use of 4 electromagnets. There will be left and right handed version (I'm left handed so will be building it left handed and will mirror it to right).
-
-My intent is to design and build the last joystick I’ll ever need. If it breaks I want to be able to fix it, I want it left and right handed, a twist axis, If it’s too big or too small I can resize it to fit my hand shape, force feedback, etc.
-
-
-
-## Mechanical features
--  dual cams per axis.
-- A twist axis that is also dual cam actuated.
-- Force feedback using electromagnetic induction.
-- All axis, and cam assemblies will be moving on ball bearings.
-- Stick will have left and right variants. (I’m left handed so will be working on the left one. Right will be a mirror of the left)
-
-
-## Electrical feature
-- Because of the electromagnets, I don’t think hall effect angle sensors would work and will look at using potentiometers instead. 
-- Microcontroller using the Arduino ecosystem.
-
-## Software features
-- Arduino based joystick implementation.
-
-## Part list
-Nuts and bolts might be able to be swapped out. You will need to get the specific bearings. I would suggest making sure to get a couple extra. I will keep an up-to-date list of parts. Keep in mind that this design is in progress so parts might change.
-
-### Bearings
-When getting bearings. I would suggest sealed ones (2rs), also Chrome steel instead of Carbon steel (they will last longer). There are many sites you can read more on bearings [like this one](https://uk.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/ball-bearings-guide).
-
-- 5x (685 Ball Bearing 5mm x 11mm x 5mm) [Amazon](https://www.amazon.ca/s?k=685+bearings)
-- 5x (6802 Deep Groove Ball Bearing 15mm x 24mm x 5mm) [Amazon](https://www.amazon.ca/s?k=6802zz+deep+groove+bearings)
-- 10x (MF105 bearings 5mm x 10mm x 4mm) [Amazon](https://www.amazon.ca/s?k=MF105ZZ+bearings)
-
+# Progress
+This project is still in the very early stages of planning and design. Currently there is a design for 3-axis gimbals using dual cam’s on PITCH and ROLL and a single cam for YAW. Force-feedback with Coils has an initial design but not finalized. 
 
 ![CAD](images/joystick_gimbal_v1.03.png)
 
+# Sections
+The work will be divided into the following main sections.
+
+## [Mechanical](source/mechanical)
+- All cams and pivots moving on ball bearings.
+- Force feedback using electromagnetic induction.
+- A parametric grip to change from left and right varients as well as size. Possible different layouts etc. 
+
+## Electrical
+- Initially was going to be potentiometer based due to electromagnetic interference but will have another look at using hall effect sensors. 
+- All logic will be done using microcontrollers in the Arduino ecosystem. 
+
+## Software
+- Arduino based joystick implementation.
+- Custom drivers (possibly)
+- Plugin for Microsoft Flight Simulator 2020 if it's necessary to extract data to drive the force-feedback loop.
+
 ## Media
+Below are progress updates from Youtube. 
 
 ### P3 | 3d printed Joystick (open joystick) - Twist axis improvements, M5 bolts
 This iteration I have gotten the twist assembly in a state where I think it should work.
