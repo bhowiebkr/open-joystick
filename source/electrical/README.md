@@ -23,8 +23,12 @@ Base will have 3 rotational inputs and 4 outputs to electromagnetic coils.
 ### Outputs:
 - 4 high current electromagnets.
 
+## Force Feedback
 
+There are three electromagnets options that I can think of the might be the solution
 
-
+- 4 Wound coils
+- Solenoids
+- Sensored Brushless motors on the axis. This might be a good method because the motors already have hall effect sensors in them. 
 
 
