@@ -15,8 +15,8 @@ The work will be divided into the following main sections.
 - All logic will be done using microcontrollers in the Arduino ecosystem. 
 
 ## [Software](software)
-- Arduino based joystick implementation.
 - Custom drivers (possibly)
-- Plugin for Microsoft Flight Simulator 2020 if it's necessary to extract data to drive the force-feedback loop.
+- Plugin for Microsoft Flight Simulator 2020 with the SDK for calculating the the force-feedback loop.
 
 ## [firmware](firmware)
+- Arduino based joystick implementation.
