@@ -3,14 +3,15 @@ The work will be divided into the following main sections.
 
 ## [Mechanical](mechanical)
 - All cams and pivots moving on ball bearings.
-- Force feedback using electromagnetic induction.
+- Force feedback using brushless DC (BLDC) motors.
 - A parametric grip to change from left and right varients as well as size. Possible different layouts etc. 
 
 ### [Design](mechanical/design)
 - Info on 3d design of the hardware.
 
 ## [Electrical](electrical)
-- Initially was going to be potentiometer based due to electromagnetic interference but will have another look at using hall effect sensors. 
+- 23 steps/degree capacitive encoders on the BLDC motors
+- ODrive motor driver.
 - All logic will be done using microcontrollers in the Arduino ecosystem. 
 
 ## [Software](software)
