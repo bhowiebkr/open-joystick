@@ -5,7 +5,7 @@ Open Joystick is an open source joystick that is built out of off the shelf comp
 # Progress
 This project is still in the very early stages of planning and design. Currently there is a design for 3-axis gimbals using dual cam’s on PITCH and ROLL and a single cam for YAW. Force-feedback with Coils has an initial design but not finalized. 
 
-![CAD](images/joystick_gimbal_v1.03.png)
+![CAD](images/joystick_gimbal_v2.0_front.png)
 
 # [Source](source)
 See the source folder for more info on build progress.
@@ -13,27 +13,5 @@ See the source folder for more info on build progress.
 ## Media
 Below are progress updates from Youtube. 
 
-### P3 | 3d printed Joystick (open joystick) - Twist axis improvements, M5 bolts
-This iteration I have gotten the twist assembly in a state where I think it should work.
-I have changed all the fasteners over to M5 bolts in standardized lengths. In the previous version there was some intersections with the base
-Other major things improved in this version is separating the main assembly into 3 sub assemblies. This helps as the design becomes more complex.
-
-[![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/iFhjTmwUKs0/0.jpg)](https://www.youtube.com/watch?v=iFhjTmwUKs0 "3d printed Joystick gimbal design and assembly motion.")
-
-
-### P2 | 3d printed Joystick (open joystick) - Twist axis, electromagnetic force feedback
-
-The grip attaches to the upper twist assembly through 2 bearings (the big and small one). This should give enough contact for the grip to not wobble around. 
-
-I have used the cams way of adding tension to the twist and it has added alot of bulk to the entire mechanism. Not sure if it’s entirely worth doing. The profile of the cams for the twist axis will need further adjusting as the tension doesn’t look like it’ll ramp up enough. The twist cams are meant to be tensioned by a spring that connects below.
-
-[![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/iFhjTmwUKs0/0.jpg)](https://www.youtube.com/watch?v=iFhjTmwUKs0 "3d printed Joystick gimbal design and assembly motion.")
-
-### P1 | 3d printed Joystick (open joystick) - Gimbal design, assembly motion.
-This video shows basically the full assembly of the original design by olukelo. Some minor changes were made where parts had interference with each other. Cam springs/elastic bands not visualized in this assembly.
-- He has a github repo for that [project found here](https://github.com/o-devices/o-joystick-hdk) that includes STL and Solidworks source files.
-- And the [Thingiverse page](https://www.thingiverse.com/thing:2496028#How%20I%20Designed%20This)
-- A working 3d print of the [Olukelo's design by Slarti Bartfast](https://www.youtube.com/watch?v=H3n42BAMKc0)
-
-[![3d printed Joystick gimbal design and assembly motion.](http://img.youtube.com/vi/yI0nB0XxZEc/0.jpg)](https://www.youtube.com/watch?v=yI0nB0XxZEc "3d printed Joystick gimbal design and assembly motion.")
+[![P6 | Joystick gimbal single CAM revision prep for printing.](http://img.youtube.com/vi/QJhfnoecmJg/0.jpg)](https://www.youtube.com/watch?v=QJhfnoecmJg "P6 | Joystick gimbal single CAM revision prep for printing.")
 
